@@ -1,5 +1,5 @@
 # coding=utf-8
-import this  # the filosophy/zen of python
+import this  # the filosophy/zen of python. 
 
 """#Курс по программированию Тимофея Хирьянова (28 лекций)
 import graphics as gr
